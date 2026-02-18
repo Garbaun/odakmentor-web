@@ -1,0 +1,15 @@
+# GitIgnore for Node.js
+
+node_modules/
+npm-debug.log*\nyarn-error.log
+.env
+.env.local
+.env.*.user.profile
+dist/
+build/
+test-coverage/
+.npcm
+.npx
+issues/
+.DS_Store
+tmp/
